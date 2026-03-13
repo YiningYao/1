@@ -1,0 +1,5 @@
+{
+  "name": "Quick-Trans",
+  "description": "专为实验室设计的24孔板细胞转染（PEI/Lipo2000）配液体系快速计算工具，支持多板管理与10%冗余计算。",
+  "requestFramePermissions": []
+}
